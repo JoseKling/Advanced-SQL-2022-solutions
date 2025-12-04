@@ -1,25 +1,5 @@
-# Übungen zur Vorlesung _Advanced SQL_ im SS 2022
+# Advanced SQL solutions
 
-Nähere Infos zur Organisation der Übungen findet ihr
+The original materials are available at [this repository](https://github.com/DBatUTuebingen-Teaching/asql-ss22). These are the materials for the Advanced SQL course from the Universität Tübingen, taught by Prof. Dr. Torsten Grust.
 
-- im [Forum zur Veranstaltung](https://forum-db.informatik.uni-tuebingen.de/c/ss22-asql)
-    (allgemeine organisatorische Infos, Termine und inhaltliche Diskussionen zu VL und Übung),
-
-- im [Handout zum Übungsbetrieb](...) mit `git`
-    (Aus- und Abgabe von Übungsblättern)
-
-- sowie auf der [Vorlesungswebsite](https://db.inf.uni-tuebingen.de/teaching/AdvancedSQLSS2022.html)
-    (allgemeine organisatorische Infos und Termine).
-
-# Angaben zum Team (bitte selbst ausfüllen)
-
-|   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) | Forum Username | Studentische E-Mail       |
-|---|----------|---------|----------------|-------------|--------------------------------|----------------|---------------------------|
-| 1.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
-| 2.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
-  
-# Punktestand (wird von Tutoren angepasst)
-
-| Classroom Team | Prozent     | Gesamt | #1   |
-|----------------|-------------|--------|------|
-|                |             |        |      |
+The video lectures from the 2020 course are available on YouTube in [this playlist](https://www.youtube.com/playlist?list=PL1XF9qjV8kH12PTd1WfsKeUQU6e83ldfc).
